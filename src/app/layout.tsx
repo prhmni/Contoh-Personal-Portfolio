@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Pratama — Full-Stack Developer & UI/UX Craftsman",
+  title: "Ipar Hamni — Full-Stack Developer & UI/UX Craftsman",
   description: "Portofolio website personal menampilkan proyek web aplikasi modern, artikel blog teknologi, dan keahlian full-stack development berestetika modern glassmorphism.",
   keywords: [
     "Full-Stack Developer",
@@ -25,9 +25,9 @@ export const metadata: Metadata = {
     "UI/UX Designer",
     "Web Developer Indonesia"
   ],
-  authors: [{ name: "Alex Pratama" }],
+  authors: [{ name: "Ipar Hamni" }],
   openGraph: {
-    title: "Alex Pratama — Full-Stack Developer & UI/UX Craftsman",
+    title: "Ipar Hamni — Full-Stack Developer & UI/UX Craftsman",
     description: "Portofolio website personal menampilkan proyek web aplikasi modern, artikel blog teknologi, dan keahlian full-stack development.",
     type: "website",
   },

@@ -28,7 +28,7 @@ export default function Hero() {
     // Simulating download or open CV
     const link = document.createElement("a");
     link.href = "#";
-    link.setAttribute("download", "CV_Alex_Pratama.pdf");
+    link.setAttribute("download", "CV_Ipar_Hamni.pdf");
   };
 
   return (

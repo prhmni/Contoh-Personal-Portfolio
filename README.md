@@ -161,3 +161,4 @@ npm run lint
 3. Klik **"Add New Project"** dan pilih repositori portofolio ini.
 4. Vercel akan otomatis mendeteksi konfigurasi **Next.js**. Klik tombol **"Deploy"**.
 5. Dalam kurun waktu ~1 menit, portofolio Anda siap diakses melalui domain kustom atau `.vercel.app`.
+

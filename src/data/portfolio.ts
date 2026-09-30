@@ -58,13 +58,13 @@ export interface Testimonial {
 }
 
 export const personalInfo = {
-  name: "Alex Pratama",
+  name: "Ipar Hamni",
   title: "Full-Stack Developer & UI/UX Craftsman",
   tagline: "Membangun produk digital yang cepat, scalable, dan berorientasi pada pengalaman pengguna yang memikat.",
   location: "Jakarta, Indonesia (WIB / UTC+7)",
   availability: "Tersedia untuk Pekerjaan Full-Time & Freelance",
   availableForHire: true,
-  email: "alexpratama.dev@gmail.com",
+  email: "iparhamni.dev@gmail.com",
   phone: "+62 812-3456-7890",
   whatsapp: "https://wa.me/6281234567890",
   bio: "Software engineer dengan pengalaman lebih dari 4 tahun dalam merancang dan mengembangkan aplikasi web modern dari hulu ke hilir. Berfokus pada arsitektur performa tinggi, UI/UX berstandar industri dengan estetika glassmorphism, dan integrasi API yang aman.",
@@ -79,7 +79,7 @@ export const personalInfo = {
     linkedin: "https://linkedin.com",
     twitter: "https://x.com",
     instagram: "https://instagram.com",
-    email: "mailto:alexpratama.dev@gmail.com",
+    email: "mailto:iparhamni.dev@gmail.com",
   },
   resumeUrl: "#",
 };
@@ -266,7 +266,7 @@ export const blogPostsData: BlogPost[] = [
     category: "Next.js & React",
     tags: ["Next.js", "React", "Server Components", "Performance"],
     author: {
-      name: "Alex Pratama",
+      name: "Ipar Hamni",
       role: "Full-Stack Developer",
       avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
     },
@@ -322,7 +322,7 @@ Dengan memisahkan batasan antara server dan klien secara cermat, aplikasi Anda a
     category: "UI/UX & CSS",
     tags: ["CSS", "Tailwind CSS", "Glassmorphism", "Design"],
     author: {
-      name: "Alex Pratama",
+      name: "Ipar Hamni",
       role: "Full-Stack Developer",
       avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
     },
@@ -364,7 +364,7 @@ Selalu pastikan:
     category: "Web Performance",
     tags: ["Core Web Vitals", "Lighthouse", "SEO", "Performance"],
     author: {
-      name: "Alex Pratama",
+      name: "Ipar Hamni",
       role: "Full-Stack Developer",
       avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
     },
@@ -430,21 +430,21 @@ export const testimonialsData: Testimonial[] = [
     role: "Chief Technology Officer",
     company: "Finora Nusantara",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
-    content: "Alex adalah engineer yang langka: memiliki kemampuan teknis backend yang solid sekaligus kepekaan estetika desain UI/UX yang sangat tajam. Proyek dashboard kami selesai 2 minggu lebih cepat dari jadwal!"
+    content: "Ipar adalah engineer yang langka: memiliki kemampuan teknis backend yang solid sekaligus kepekaan estetika desain UI/UX yang sangat tajam. Proyek dashboard kami selesai 2 minggu lebih cepat dari jadwal!"
   },
   {
     name: "Sarah Wijaya",
     role: "Product Lead",
     company: "MarketHub Global",
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80",
-    content: "Kolaborasi dengan Alex sangat menyenangkan. Komunikasi proaktif, kode bersih dan terstruktur dengan rapi, serta hasil akhir yang responsif dan sangat memukau di perangkat seluler."
+    content: "Kolaborasi dengan Ipar sangat menyenangkan. Komunikasi proaktif, kode bersih dan terstruktur dengan rapi, serta hasil akhir yang responsif dan sangat memukau di perangkat seluler."
   },
   {
     name: "Hendrik Pratomo",
     role: "Founder & CEO",
     company: "KreativLab ID",
     avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
-    content: "Website portofolio dan landing page yang dibuatkan Alex meningkatkan conversion rate calon investor kami secara signifikan. Sangat direkomendasikan!"
+    content: "Website portofolio dan landing page yang dibuatkan Ipar meningkatkan conversion rate calon investor kami secara signifikan. Sangat direkomendasikan!"
   }
 ];
 
